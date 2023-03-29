@@ -1,2 +1,1 @@
-Halla seiaaan 
-Oppe og nikke som vanlig?
+Halla seiaaan, oppe og nikke som vanlig?
